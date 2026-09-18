@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+PROD0001,Wireless Earbuds,Electronics,28590.98
+PROD0002,Bluetooth Speaker,Electronics,46811.42
+PROD0003,Noise Cancelling Headphones,Electronics,45430.69
+PROD0004,Smart Watch,Electronics,36063.99
+PROD0005,Power Bank 20000mAh,Electronics,30790.57
+PROD0006,USB-C Hub,Electronics,33376.62
+PROD0007,Mechanical Keyboard,Electronics,20506.18
+PROD0008,Wireless Mouse,Electronics,28005.22
+PROD0009,1080p Webcam,Electronics,3549.81
+PROD0010,Portable SSD 1TB,Electronics,2820.76
+PROD0011,Tablet Stand,Electronics,8597.76
+PROD0012,LED Desk Lamp,Electronics,47366.35
+PROD0013,Smart Plug,Electronics,20204.74
+PROD0014,Dash Camera,Electronics,32702.37
+PROD0015,Action Camera,Electronics,29875.51
+PROD0016,E-Reader,Electronics,8756.5
+PROD0017,Graphics Tablet,Electronics,29613.18
+PROD0018,Soundbar,Electronics,22211.07
+PROD0019,Wi-Fi Router,Electronics,21463.84
+PROD0020,Fitness Band,Electronics,47592.58
+PROD0021,Air Fryer 4L,Home & Kitchen,12283.8
+PROD0022,Electric Kettle,Home & Kitchen,9040.82
+PROD0023,Cast Iron Skillet,Home & Kitchen,2058.44
+PROD0024,Knife Set,Home & Kitchen,8845.39
+PROD0025,Blender 750W,Home & Kitchen,17815.55
+PROD0026,Coffee Grinder,Home & Kitchen,10836.41
+PROD0027,French Press,Home & Kitchen,8074.96
+PROD0028,Storage Container Set,Home & Kitchen,16100.59
+PROD0029,Ceramic Dinner Set,Home & Kitchen,12766.47
+PROD0030,Microfiber Bedsheet,Home & Kitchen,19536.17
+PROD0031,Memory Foam Pillow,Home & Kitchen,19668.5
+PROD0032,Vacuum Cleaner,Home & Kitchen,9411.66
+PROD0033,Induction Cooktop,Home & Kitchen,19264.99
+PROD0034,Pressure Cooker,Home & Kitchen,18768.9
+PROD0035,Water Purifier Filter,Home & Kitchen,17402.79
+PROD0036,Wall Clock,Home & Kitchen,7562.38
+PROD0037,Table Organizer,Home & Kitchen,17899.56
+PROD0038,Laundry Basket,Home & Kitchen,19843.32
+PROD0039,Cotton T-Shirt,Fashion,4468.46
+PROD0040,Slim Fit Jeans,Fashion,1751.32
+PROD0041,Running Shoes,Fashion,2279.16
+PROD0042,Leather Belt,Fashion,4509.07
+PROD0043,Denim Jacket,Fashion,270.98
+PROD0044,Formal Shirt,Fashion,3318.38
+PROD0045,Chino Trousers,Fashion,1233.03
+PROD0046,Canvas Sneakers,Fashion,4883.18
+PROD0047,Wool Scarf,Fashion,2768.8
+PROD0048,Sun Hat,Fashion,2437.14
+PROD0049,Backpack 25L,Fashion,7126.1
+PROD0050,Leather Wallet,Fashion,3988.85
+PROD0051,Analog Watch,Fashion,6691.49
+PROD0052,Sunglasses,Fashion,4368.31
+PROD0053,Ankle Socks Pack,Fashion,4886.41
+PROD0054,Face Wash 150ml,Beauty & Personal Care,170.37
+PROD0055,Sunscreen SPF50,Beauty & Personal Care,710.95
+PROD0056,Vitamin C Serum,Beauty & Personal Care,3372.77
+PROD0057,Shampoo 400ml,Beauty & Personal Care,1501.17
+PROD0058,Body Lotion,Beauty & Personal Care,2048.33
+PROD0059,Beard Trimmer,Beauty & Personal Care,1921.07
+PROD0060,Hair Dryer,Beauty & Personal Care,566.88
+PROD0061,Electric Toothbrush,Beauty & Personal Care,2366.59
+PROD0062,Lip Balm Pack,Beauty & Personal Care,484.95
+PROD0063,Moisturising Cream,Beauty & Personal Care,1957.06
+PROD0064,Yoga Mat,Sports & Outdoors,5688.31
+PROD0065,Adjustable Dumbbell,Sports & Outdoors,5435.24
+PROD0066,Resistance Band Set,Sports & Outdoors,2343.68
+PROD0067,Cricket Bat,Sports & Outdoors,2217.06
+PROD0068,Football Size 5,Sports & Outdoors,6416.74
+PROD0069,Badminton Racket,Sports & Outdoors,6975.53
+PROD0070,Cycling Helmet,Sports & Outdoors,9545.38
+PROD0071,Trekking Pole,Sports & Outdoors,1798.22
+PROD0072,Insulated Water Bottle,Sports & Outdoors,6019.85
+PROD0073,Skipping Rope,Sports & Outdoors,4493.68
+PROD0074,Notebook A5 Pack,Books & Stationery,838.22
+PROD0075,Gel Pen Set,Books & Stationery,1127.95
+PROD0076,Sticky Notes Cube,Books & Stationery,1258.22
+PROD0077,Desk Calendar,Books & Stationery,558.39
+PROD0078,Fiction Paperback Bundle,Books & Stationery,84.71
+PROD0079,Colour Pencil Set,Books & Stationery,1265.1
+PROD0080,File Folder Pack,Books & Stationery,555.8
+PROD0081,Whiteboard Marker Set,Books & Stationery,989.41
+PROD0082,Building Blocks 200pc,Toys & Games,1697.27
+PROD0083,Jigsaw Puzzle 1000pc,Toys & Games,2057.5
+PROD0084,Remote Control Car,Toys & Games,1180.73
+PROD0085,Board Game Classic,Toys & Games,4283.72
+PROD0086,Soft Toy Bear,Toys & Games,175.09
+PROD0087,Card Game Deck,Toys & Games,4551.82
+PROD0088,Science Kit,Toys & Games,327.43
+PROD0089,Rubik Cube 3x3,Toys & Games,3498.22
+PROD0090,Kite Set,Toys & Games,4904.58
+PROD0091,Arabica Coffee Beans 500g,Grocery & Staples,197.92
+PROD0092,Green Tea Bags 100pc,Grocery & Staples,3574.33
+PROD0093,Almonds 500g,Grocery & Staples,1163.19
+PROD0094,Cold Pressed Olive Oil 1L,Grocery & Staples,527.55
+PROD0095,Brown Rice 5kg,Grocery & Staples,1789.74
+PROD0096,Dark Chocolate Pack,Grocery & Staples,3019.59
+PROD0097,Honey 500g,Grocery & Staples,134.3
+PROD0098,Protein Powder 1kg,Grocery & Staples,2511.08
+PROD0099,Multigrain Atta 5kg,Grocery & Staples,306.39
+PROD0100,Mixed Spices Box,Grocery & Staples,386.41
