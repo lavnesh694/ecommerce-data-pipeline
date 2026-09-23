@@ -1,0 +1,14 @@
+metric,count
+raw_orders,100300
+missing_customer_id,500
+orphan_customer_id,200
+orphan_product_id,100
+invalid_order_date,217
+missing_order_date,33
+invalid_quantity,502
+reconstructed_amount,600
+mismatched_amount,166
+total_rejected,668
+valid_before_dedup,99632
+exact_duplicates_removed,132
+final_curated_orders,99500
